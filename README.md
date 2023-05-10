@@ -1,5 +1,7 @@
 # react-lightbox-gallery
 
+ATTENTION: This is for personal use, i will not update this package. The main reason why this was forked is to remove the <h1> for SEO purpose.
+
 
 
 [![NPM](https://img.shields.io/npm/v/react-lightbox-gallery.svg)](https://www.npmjs.com/package/react-lightbox-gallery) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
