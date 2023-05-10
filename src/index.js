@@ -217,11 +217,6 @@ export default class LightRoomComponent extends Component {
                style={{ maxWidth: "100%" }}
              />
            </div>
-           <div className={styles.lightroomdesc}>
-             <h1>{this.state.name}</h1>
-             <p className={styles.desc}>{this.state.desc}</p>
-             <p className={styles.sub}>{this.state.sub}</p>
-           </div>
            <img
              src={
                this.props.settings.mode == "light"
