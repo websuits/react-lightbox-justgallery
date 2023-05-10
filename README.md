@@ -1,6 +1,6 @@
 # react-lightbox-gallery
 
-ATTENTION: This is for personal use, i will not update this package. The main reason why this was forked is to remove the "<h1>" tag for SEO purpose.
+ATTENTION: This is for personal use, i will not update this package. The main reason why this was forked is to remove the "h1" tag for SEO purpose.
 
 
 
